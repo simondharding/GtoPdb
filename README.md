@@ -1,1 +1,1 @@
-# IUPHAR-BPS-Guide-to-Pharmacology
+# IUPHAR/BPS Guide to Pharmacology
